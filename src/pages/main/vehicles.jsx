@@ -149,7 +149,7 @@ function Vehicles({ theme }) {
 
   const onSubmit = async () => {
     let a = { ...war };
-
+      console.log("a",a)
     setWar(a);
   };
 

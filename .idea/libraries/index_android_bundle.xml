@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="index.android.bundle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/compressed_assets/debug/out/assets/index.android.bundle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
